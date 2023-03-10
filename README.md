@@ -1,6 +1,6 @@
 # Picasso Painting - FreeCodeCamp
 ![preview](./preview.png)
-🔗 [Click here to access](https://carvmi.github.io/pseudosseletores/)
+🔗 [Click here to access](https://carvmi.github.io/intermediatecss/)
 ## Technologies 
 - HTML
 - CSS
